@@ -24,5 +24,12 @@ for (i in 1:n) {
 
 # final computation and visualization here
 ```
+
+# Frames
+Because this project entailed breaking videos down into frames there were over 2,000 frames.
+
+To get the frames go here:
+https://drive.google.com/drive/folders/1pH72ZjDIFfnETgUK1LmMkQAExWVlqkFy?usp=sharing
+
 # Contributors
 Christian Tomford, Jon Mayer, and Titus Snavely
