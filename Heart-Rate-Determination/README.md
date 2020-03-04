@@ -3,6 +3,7 @@ Take image data captured from someones finger on the lens of a cell phone's came
 
 # Template
 This was the template that was given to the groups to help us get started:
+
 library(png)
                 
 n <- length(list.files("frames/", "frame.*")) # Number of frames
